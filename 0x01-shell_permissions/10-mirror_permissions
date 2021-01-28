@@ -1,0 +1,2 @@
+#!/bin/bash
+chmodx ug-x,go+w,o+x
